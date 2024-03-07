@@ -1,0 +1,36 @@
+** Category **
+beverage
+rice&toppokki
+korean fried chicken
+Pizza
+Pasta
+Appetizer&Salad
+
+Hawaiian Pizza
+** description **
+To make Hawaiian pizza, top dough with tomato sauce, shredded mozzarella, diced pineapple, sliced ham, and red pepper flakes and then bake until golden.
+
+Sicilian pizza
+** description **
+Sicilian pizza, also known as "sfincione," provides a thick cut of pizza with pillowy dough, a crunchy crust, and robust tomato sauce.
+
+Chicago-style pizza
+** description **
+Chicago-style pizza is pizza prepared according to several styles developed in Chicago. It can refer to both the well-known deep-dish or stuffed pizzas and the lesser-known thin-crust tavern-style pizzas more popular with locals.
+
+California-style pizza
+** description **
+California-style pizza is a style of pizza that combines New York and Italian thin crust with toppings from the California cuisine cooking style.
+
+Juices
+Raspberry, blackberry and currants are popular juices drinks but the percentage of water also determines their nutritive value.
+
+Iced tea
+Thus, beside conventional types of beverage like tea, juices, or coffee, alcoholic drinks such as beer, wine or cocktails are also considered beverages.
+
+Coffee
+contains antioxidants and other active substances that may reduce internal inflammation and protect against disease.
+
+Hot Chocolate
+Hot chocolate, also known as hot cocoa or drinking chocolate, is a heated drink consisting of shaved or melted chocolate or cocoa powder, heated milk or water, and usually a sweetener.
+
